@@ -31,7 +31,7 @@ public class CommonAPI {
 
     @AfterMethod
     public void cleanUp() {
-        driver.quit();
+        driver.close();
     }
 
     public void clickByCss(String locator) {
@@ -54,6 +54,9 @@ public class CommonAPI {
         driver.findElement(By.cssSelector(locator)).sendKeys(Keys.ENTER);
     }
 
+    public void takeEnterXpath(String locator){
+        driver.findElement(By.xpath(locator)).sendKeys(Keys.ENTER);
+    }
     public List<WebElement> getListOfWebElements(String locator) {
 
         List<WebElement> list = new ArrayList<WebElement>();

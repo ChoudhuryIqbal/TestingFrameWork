@@ -8,7 +8,13 @@ import org.testng.annotations.Test;
  */
 public class Search extends CommonAPI {
     @Test
-    public void searchNews(){
-        
+    public void searchNews() throws InterruptedException{
+        clickByXpath(".//*[@id='top']/div/div/form/fieldset/a");
+        Thread.sleep(1000);
+        typeByXpath(".//*[@id='top']/div/div/form/fieldset/input[1]","Politics");
+        takeEnterXpath(".//*[@id='top']/div/div/form/fieldset/input[1]");
+
+        Thread.sleep(3000);
+
     }
 }
