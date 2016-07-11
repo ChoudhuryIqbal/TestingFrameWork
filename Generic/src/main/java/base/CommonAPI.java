@@ -72,8 +72,13 @@ public class CommonAPI {
             items.add(element.getText());
         }
 
+
+
+
         return items;
     }
+
+
 
     public void selectOptionByVisibleText(WebElement element, String value) {
         Select select = new Select(element);

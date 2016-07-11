@@ -27,7 +27,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FoxNews" target="1.5" />
+      <module name="FoxNews" target="1.8" />
       <module name="Generic" target="1.5" />
       <module name="TestingFrameWork" target="1.5" />
     </bytecodeTargetLevel>
