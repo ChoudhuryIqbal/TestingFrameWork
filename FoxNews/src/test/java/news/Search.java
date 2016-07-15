@@ -8,7 +8,10 @@ import org.testng.annotations.Test;
  */
 public class Search extends CommonAPI {
 
-    @Test
+
+
+
+    @Test(enabled = false)
     public void searchNews() throws InterruptedException{
         clickByXpath(".//*[@id='top']/div/div/form/fieldset/a");
         Thread.sleep(1000);
