@@ -46,6 +46,14 @@ public class CommonAPI {
         driver.manage().window().maximize();
     }
 
+    public void clearInputField(String locator){
+       // driver.findElement(By.cssSelector(locator)).clear();
+        driver.findElement(By.xpath(locator)).clear();
+    }
+    public void sleepFor(int sec) throws InterruptedException{
+        Thread.sleep(sec*1000);
+    }
+
     public WebDriver getLocalDriver(String browserName) {
         if (browserName.equalsIgnoreCase("chrome")) {
             System.setProperty("webdriver.chrome.driver", "Generic/browser-driver/chromedriver.exe");
@@ -78,7 +86,7 @@ public class CommonAPI {
 
     @AfterMethod
     public void cleanUp() {
-        driver.quit();
+        driver.close();
     }
 
     public void clickByCss(String locator) {
