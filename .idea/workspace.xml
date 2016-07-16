@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c5bb4b-dc17-43e3-afdf-8133782a4f76" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoxNews/data/actionSteps.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoxNews/data/file1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoxNews/data/file2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoxNews/data/searchData.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoxNews/src/test/java/reader/ReadNewsData.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxNews/FoxNews.iml" afterPath="$PROJECT_DIR$/FoxNews/FoxNews.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java" afterPath="$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="TestingFrameWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +36,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="408">
               <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding />
             </state>
@@ -46,10 +46,10 @@
       <file leaf-file-name="DataReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
+            <state relative-caret-position="1496">
               <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -60,7 +60,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#3087#3088#0" expanded="false" />
+                <element signature="e#3116#3117#0" expanded="false" />
+                <element signature="e#3162#3163#0" expanded="false" />
+                <element signature="e#3229#3230#0" expanded="false" />
+                <element signature="e#3277#3278#0" expanded="false" />
+                <element signature="e#3338#3339#0" expanded="false" />
+                <element signature="e#3397#3398#0" expanded="false" />
+                <element signature="e#3472#3473#0" expanded="false" />
+                <element signature="e#3533#3534#0" expanded="false" />
+                <element signature="e#3602#3603#0" expanded="false" />
+                <element signature="e#3650#3651#0" expanded="false" />
+                <element signature="e#3724#3725#0" expanded="false" />
+                <element signature="e#3773#3774#0" expanded="false" />
+                <element signature="e#3853#3854#0" expanded="false" />
+                <element signature="e#3969#3981#0" expanded="false" />
+                <element signature="e#4174#4182#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,9 +106,21 @@
       <file leaf-file-name="Search.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadNewsData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/reader/ReadNewsData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +128,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="374">
               <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding />
             </state>
@@ -108,7 +138,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
+            <state relative-caret-position="520">
               <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
               <folding />
             </state>
@@ -143,6 +173,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/java/reader/ReadNewsData.java" />
         <option value="$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java" />
       </list>
     </option>
@@ -251,9 +282,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -524,6 +553,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="reader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoxNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="news" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -546,8 +605,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoxNews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -560,6 +639,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a\udemyAutomation\TestingFrameWork\FoxNews\data" />
       <recent name="C:\Users\a\udemyAutomation\TestingFrameWork\Generic\browser-driver" />
     </key>
   </component>
@@ -907,32 +987,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33223686" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22039473" sideWeight="0.50410676" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988287" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25768667" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22039473" sideWeight="0.4958932" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20863836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20717423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33223686" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22039473" sideWeight="0.4958932" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -957,6 +1037,174 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3229#3230#0" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3338#3339#0" expanded="false" />
+            <element signature="e#3397#3398#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3533#3534#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3724#3725#0" expanded="false" />
+            <element signature="e#3773#3774#0" expanded="false" />
+            <element signature="e#3853#3854#0" expanded="false" />
+            <element signature="e#3969#3981#0" expanded="false" />
+            <element signature="e#4174#4182#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/resource/FoxNewsAppRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3229#3230#0" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3338#3339#0" expanded="false" />
+            <element signature="e#3397#3398#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3533#3534#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3724#3725#0" expanded="false" />
+            <element signature="e#3773#3774#0" expanded="false" />
+            <element signature="e#3853#3854#0" expanded="false" />
+            <element signature="e#3969#3981#0" expanded="false" />
+            <element signature="e#4174#4182#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/resource/FoxNewsAppRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
           <folding />
@@ -967,7 +1215,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3229#3230#0" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3338#3339#0" expanded="false" />
+            <element signature="e#3397#3398#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3533#3534#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3724#3725#0" expanded="false" />
+            <element signature="e#3773#3774#0" expanded="false" />
+            <element signature="e#3853#3854#0" expanded="false" />
+            <element signature="e#3969#3981#0" expanded="false" />
+            <element signature="e#4174#4182#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,7 +1289,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3229#3230#0" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3338#3339#0" expanded="false" />
+            <element signature="e#3397#3398#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3533#3534#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3724#3725#0" expanded="false" />
+            <element signature="e#3773#3774#0" expanded="false" />
+            <element signature="e#3853#3854#0" expanded="false" />
+            <element signature="e#3969#3981#0" expanded="false" />
+            <element signature="e#4174#4182#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1078,7 +1362,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3229#3230#0" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3338#3339#0" expanded="false" />
+            <element signature="e#3397#3398#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3533#3534#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3724#3725#0" expanded="false" />
+            <element signature="e#3773#3774#0" expanded="false" />
+            <element signature="e#3853#3854#0" expanded="false" />
+            <element signature="e#3969#3981#0" expanded="false" />
+            <element signature="e#4174#4182#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1128,14 +1430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1148,7 +1442,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3229#3230#0" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3338#3339#0" expanded="false" />
+            <element signature="e#3397#3398#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3533#3534#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3724#3725#0" expanded="false" />
+            <element signature="e#3773#3774#0" expanded="false" />
+            <element signature="e#3853#3854#0" expanded="false" />
+            <element signature="e#3969#3981#0" expanded="false" />
+            <element signature="e#4174#4182#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,7 +1474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="408">
           <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding />
         </state>
@@ -1170,7 +1482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="374">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding />
         </state>
@@ -1178,8 +1490,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="1496">
           <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/reader/ReadNewsData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1188,8 +1518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
