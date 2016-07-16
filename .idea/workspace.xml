@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c5bb4b-dc17-43e3-afdf-8133782a4f76" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxNews/target/test-classes/news/Search.class" afterPath="$PROJECT_DIR$/FoxNews/target/test-classes/news/Search.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/com.generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/com.generic-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java" afterPath="$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxNews/src/test/resource/FoxNewsAppRunner.xml" afterPath="$PROJECT_DIR$/FoxNews/src/test/resource/FoxNewsAppRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java" />
     </list>
     <ignored path="TestingFrameWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,12 +47,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="393">
+              <caret line="226" column="4" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="4" />
+              <folding>
+                <element signature="e#5258#5259#0" expanded="true" />
+                <element signature="e#5325#5326#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Search.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Search.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="332">
@@ -154,8 +150,8 @@
         <option value="$PROJECT_DIR$/FoxNews/src/test/java/reader/ReadNewsData.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/util/DataReader.java" />
         <option value="$PROJECT_DIR$/FoxNews/src/test/resource/FoxNewsAppRunner.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -1022,7 +1018,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
-          <folding />
+          <folding>
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5325#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,7 +1085,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
-          <folding />
+          <folding>
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5325#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1142,7 +1144,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
-          <folding />
+          <folding>
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5325#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1198,7 +1203,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5325#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1253,7 +1261,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5325#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1361,19 +1372,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/news/Search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="226" column="4" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="4" />
+          <folding>
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5325#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
